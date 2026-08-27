@@ -217,12 +217,8 @@ HR-Employee-Attrition-Analytics/
 ## 📷 Dashboard Preview
 
 Power BI dashboard screenshot here:
-
-```markdown
-
-```
 https://github.com/sushmasarkar26/HR_Attrition_Analysis/blob/main/HR_Attrition_Dashboard.png
----
+
 
 ## 📌 Project Outcome
 
