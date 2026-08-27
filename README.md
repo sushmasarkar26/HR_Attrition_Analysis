@@ -203,7 +203,7 @@ HR-Employee-Attrition-Analytics/
 ├── README.md
 ├── HR_powerbi.pbix
 ├── Dataset/
-│   └── HR_Attrition_Dataset.xlsx
+│   └── HR_Attrition_Dataset.csv
 │
 ├── Dashboard/
 │   └── HR_Attrition_Dashboard.png
@@ -216,12 +216,12 @@ HR-Employee-Attrition-Analytics/
 
 ## 📷 Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
+Power BI dashboard screenshot here:
 
 ```markdown
 
 ```
-
+https://github.com/sushmasarkar26/HR_Attrition_Analysis/blob/main/HR_Attrition_Dashboard.png
 ---
 
 ## 📌 Project Outcome
